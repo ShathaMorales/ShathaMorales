@@ -1,5 +1,5 @@
 
-![Houston_Skyline](https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/9-houston-texas-skyline-michael-tompsett.jpg)
+![Houston_Skyline](https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/1-houston-and-milan-skyline-mashup-michael-tompsett.jpg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo&weight=600&size=35&pause=1000&color=265CD4&center=true&vCenter=true&multiline=true&width=435&lines=Shatha+Morales;Full-Stack+Developer)](https://git.io/typing-svg)
 
